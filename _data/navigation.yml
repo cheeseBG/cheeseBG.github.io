@@ -3,6 +3,6 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/cheeseBG/about/
   - title: "Categories"
-     url: /categories/
+     url: https://mmistakes.github.io/cheeseBG/categories/
   - title: "Sitemap"
-  #   url: /sitemap/
+     url: https://mmistakes.github.io/cheeseBG/sitemap/

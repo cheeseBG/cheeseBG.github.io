@@ -5,4 +5,4 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Sitemap"
-    url: https://mmistakes.github.io/cheeseBG/sitemap/
+    url: /sitemap/

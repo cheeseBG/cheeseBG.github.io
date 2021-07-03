@@ -1,10 +1,7 @@
-# Front Matter
+# category-archive.md
 ---
-date: 2021-07-03
-title: "Jekyll 첫번째 글"
-categories: blog
-tags: jekyll
-# 목차
-toc: true  
-toc_sticky: true 
+title: "Posts by Category"
+layout: categories
+permalink: /categories/
+author_profile: true
 ---

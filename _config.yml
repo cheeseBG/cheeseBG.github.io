@@ -95,14 +95,14 @@ analytics:
 # Site Author
 author:
   name             : "장정익"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jji.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul"
   email            : "jji4449@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jji4449@gmail.com"
+      # url: "mailto:jji4449@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/cheeseBG"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

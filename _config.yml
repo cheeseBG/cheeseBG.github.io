@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" #"aqua", "contrast", "dark", "dirt", "neon", "m
 locale                   : "ko"
 title                    : "cheeseBG's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "IT Tech"
 name                     : "장정익"
 description              : "cheeseBG's Blog."
 url                      : "https://cheeseBG.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cheeseBG/cheeseBG.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo/cheeseBG.ico # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "cheeseBG's Blog" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,12 +97,12 @@ author:
   name             : "Jungik Jang"
   avatar           : "/assets/images/about/bio-photo.jpg"
   bio              : "💻 **AIoT Lab**"
-  location         : "Seoul"
-  email            : "jji4449@gmail.com"
+  location         : "Repulblic of Korea"
+  email            : #"jji4449@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jji4449@gmail.com"
+      url: "mailto:jji4449@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

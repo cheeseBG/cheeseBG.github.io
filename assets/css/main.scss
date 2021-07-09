@@ -8,10 +8,3 @@
 @import "minimal-mistakes"; // main partials
 
 // Font 변경
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
-$serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
-$caption-font-family: $serif !default;

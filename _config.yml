@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "cheeseBG's Blog"
 title_separator          : "-"
 subtitle                 : "IT Tech"
-name                     : "장정익"
+name                     : "CheeseBG"
 description              : "cheeseBG's Blog."
 url                      : "https://cheeseBG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jungik Jang"
+  name             : "CheeseBG"
   avatar           : "/assets/images/about/bio-photo.jpg"
   bio              : "💻 **AIoT Lab**"
   location         : "Repulblic of Korea"

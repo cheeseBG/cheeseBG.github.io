@@ -2,5 +2,7 @@
 main:
   - title: "About"
     url: /bio/
-  - title: "Categories"
-    url: /categories/
+  - title: "Category"
+    url: /category/
+  - title: "Tag"
+    url: /tag/

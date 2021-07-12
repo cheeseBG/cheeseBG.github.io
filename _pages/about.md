@@ -15,6 +15,7 @@ author_profile: true
 * Machine Learning
 * Deep Learning
 * Wireless Network
+* Wi-Fi Sensing
 * On-Device AI
 * Environment
 

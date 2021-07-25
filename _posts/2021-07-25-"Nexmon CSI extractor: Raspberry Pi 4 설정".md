@@ -1,7 +1,7 @@
 ---
 date: 2021-07-25
 title: "Nexmon CSI extractor: Raspberry Pi 4 설정"
-categories: blog
+categories: Network
 tags: CSI 
 # 목차
 toc: true  

@@ -1,7 +1,7 @@
 ---
 title: "Network"
 layout: archive
-permalink: categories/Network
+permalink: category/Network
 author_profile: true
 sidebar_main: true
 ---

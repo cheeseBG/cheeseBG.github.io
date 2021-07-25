@@ -12,7 +12,7 @@ CSI 데이터 수집을 위해 Nexmon에서 제공하는 CSI extrator 환경을 
 해당 깃허브 사이트([https://github.com/seemoo-lab/nexmon_csi](https://github.com/seemoo-lab/nexmon_csi))에서 README를 보고 그대로 진행했으나 CSI 데이터가 추출되지 않는 문제가 있어 다양한 시행착오 끝에 성공한 해결방법을 정리하려고 한다.
 
 ### 1. Firmware patch
-가장 먼저 README의 'Getting Started'의 'bcm43455c0' 파트를 진행하게되는데 이 과정에서 에러가 발생한다면 kernel 버전을 확인해봐야 한다. </br>
+가장 먼저 README의 'Getting Started'의 'bcm43455c0' 파트를 진행하게되는데 이 과정에서 에러가 발생한다면 kernel 버전을 확인해봐야 한다.
 
 *kernel 버전을 반드시 4.19 또는 5.4로 맞추고 진행해야한다!*
 

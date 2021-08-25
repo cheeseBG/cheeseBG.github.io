@@ -27,7 +27,7 @@ CSI 데이터 수집을 위해 Nexmon에서 제공하는 CSI extrator 환경을 
 
 따라서 같은 문제(packet이 추출되지 않는)가 발생한다면 아래 사항들을 따라해보길 바란다.
 
-- AP를 2.4MHz bandwidth 36 channel로 세팅 (36 channel 보다 높은 채널들은 아직 문제가 있다고한다)
+- AP를 5GHz bandwidth 36 channel로 세팅 (36 channel 보다 높은 채널들은 아직 문제가 있다고한다)
 - 아래에서 `157/80`을 `36/20`으로 변경(그래도 안될경우 `nexutil -k`를 통해 channel, bandwidth 값 확인후 입력), `-b 0x88` 제거
  
   ```
